@@ -4,6 +4,8 @@
 # TEAM
 
     <name> Malik Rahim Awan <twitter>
+	learning devops 
+	cloud aws etc
 
 # THANKS
 
